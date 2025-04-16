@@ -1,0 +1,37 @@
+[
+  {
+    "Lago": "General Carrera",
+    "Superficie": 1.85,
+    "comparado": "4,51"
+  },
+  {
+    "Lago": "Llanquihue",
+    "Superficie": 860,
+    "comparado": 2
+  },
+  {
+    "Lago": "O'Higgins",
+    "Superficie": 554,
+    "comparado": "1,35"
+  },
+  {
+    "Lago": "Ranco",
+    "Superficie": 410,
+    "comparado": 1
+  },
+  {
+    "Lago": "Presidente Ríos",
+    "Superficie": 313,
+    "comparado": "0,76"
+  },
+  {
+    "Lago": "Greve",
+    "Superficie": 240,
+    "comparado": "0,58"
+  },
+  {
+    "Lago": "Rupanco",
+    "Superficie": 230,
+    "comparado": 0.5
+  }
+]
